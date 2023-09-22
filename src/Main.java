@@ -8,5 +8,6 @@ public class Main {
         float height = input.nextFloat();
         float bmi = weight/(height * height);
         System.out.println("Your BMI is: " + String.format("%.2f", bmi));
+        System.out.println("BYE!);
     }
 }
